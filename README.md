@@ -2,7 +2,7 @@
 
 # Incendio Radar Android
 
-![Incendio Radar Logo](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![Incendio Radar Logo](https://github.com/juulsdev/IncendioRadarApp/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 Flutter · Android · OpenStreetMap · NASA FIRMS API
 
